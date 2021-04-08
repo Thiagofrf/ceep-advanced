@@ -1,1 +1,1 @@
-# js_web_1920
+Continuação do projeto Ceep - lista de tarefas - agora aprendendo a trabalhar com Storage no navegador, novos campos no formulário como data e mais.
